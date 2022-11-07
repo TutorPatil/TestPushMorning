@@ -1,0 +1,8 @@
+Tasks of Java Complier
+
+
+1. Checks for syntax
+2. Converts .java to .class
+3.Implicit Type casting for eg double d = 50; int x = 'a';
+4. Adds default constructor when not added by the programer
+5. Calls the super class constructor from the child class constructor
